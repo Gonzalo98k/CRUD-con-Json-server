@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1865",
+      "title": "Mark-47.0",
+      "views": 410
+    },
+    {
+      "id": "6f06",
+      "title": "udchewuifcfe",
+      "views": "991"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
